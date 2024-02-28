@@ -1,0 +1,1 @@
+ /home/strozer/flutter_projects/trust2/.dart_tool/flutter_build/e3b88ca11ea4c37895c3b5b366bcdff8/native_assets.yaml: 
